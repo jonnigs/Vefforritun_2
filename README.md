@@ -4,7 +4,7 @@ A selection of my projects from Vefforritun 2 (Web programing 2). The main input
 
 ### Stórt verkefni 2
 
-Larger React project. Made on top of a [given backend](https://bakendi-fyrir-h2.herokuapp.com/)
+Larger React project. Made on top of a [given backend](https://bakendi-fyrir-h2.herokuapp.com/).  
 [The Github repo](https://github.com/jonnigs/Vefforritun-2-stort-verkefni-2).  
 [Running solution on Heroku](https://framendi-fyrir-h2.herokuapp.com/).
 
