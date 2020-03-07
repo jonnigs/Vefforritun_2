@@ -10,11 +10,11 @@ Larger React project. Made on top of a [given backend](https://bakendi-fyrir-h2.
 
 ### Verkefni 5
 
-First React project. [The backend](https://vefforritun2-2018-v4-synilausn.herokuapp.com/) is given and running on Heroku
+First React project. [The backend](https://vefforritun2-2018-v4-synilausn.herokuapp.com/) was given and is running on Heroku.  
 [The GitHub repo](https://github.com/jonnigs/Vefforritun-2-Verkefni-5).
 
 ### Verkefni 1
 
-This project uses Node.js, Express and Ejs templating. The look is written with plain CSS and scalable at 860px
+This project used Node.js, Express and Ejs templating. The look is written with plain CSS and scalable at 860px
 
 [The GitHub repo](https://github.com/jonnigs/Vefforritun-2-verkefni-1).
