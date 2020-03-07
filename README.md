@@ -1,14 +1,12 @@
 # Vefforritun 2
 
+A selection of my projects from Vefforritun 2 (Web programing 2). The main input of the course was to use Node.js both for developing backends and frontends. Throughout the course I used a few different templating engines like, Ejs, Handlebars and Pug. For building frontends I used React.
+
 ### Stórt verkefni 2
 
 Larger React project. Made on top of a [given backend](https://bakendi-fyrir-h2.herokuapp.com/)
 [The Github repo](https://github.com/jonnigs/Vefforritun-2-stort-verkefni-2).  
 [Running solution on Heroku](https://framendi-fyrir-h2.herokuapp.com/).
-
-### Stórt verkefni 1
-
-[The GitHub repo](https://github.com/jonnigs/Vefforritun-2-stort-verkefni-1).
 
 ### Verkefni 5
 
